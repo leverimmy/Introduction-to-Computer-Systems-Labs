@@ -1,0 +1,488 @@
+[
+    {
+        "Size": 268435456,
+        "Loops": 1000000,
+        "Batchsize": 1,
+        "naive ns per search": 887.90,
+        "naive ns per access": 31.71,
+        "coroutine batched ns per search": 2027.62,
+        "coroutine batched ns per access": 72.42
+    },
+    {
+        "Size": 268435456,
+        "Loops": 1000000,
+        "Batchsize": 2,
+        "naive ns per search": 844.32,
+        "naive ns per access": 30.15,
+        "coroutine batched ns per search": 1193.32,
+        "coroutine batched ns per access": 42.62
+    },
+    {
+        "Size": 268435456,
+        "Loops": 1000000,
+        "Batchsize": 4,
+        "naive ns per search": 852.43,
+        "naive ns per access": 30.44,
+        "coroutine batched ns per search": 892.63,
+        "coroutine batched ns per access": 31.88
+    },
+    {
+        "Size": 268435456,
+        "Loops": 1000000,
+        "Batchsize": 8,
+        "naive ns per search": 866.46,
+        "naive ns per access": 30.94,
+        "coroutine batched ns per search": 935.21,
+        "coroutine batched ns per access": 33.40
+    },
+    {
+        "Size": 268435456,
+        "Loops": 1000000,
+        "Batchsize": 16,
+        "naive ns per search": 869.93,
+        "naive ns per access": 31.07,
+        "coroutine batched ns per search": 883.71,
+        "coroutine batched ns per access": 31.56
+    },
+    {
+        "Size": 268435456,
+        "Loops": 1000000,
+        "Batchsize": 32,
+        "naive ns per search": 873.40,
+        "naive ns per access": 31.19,
+        "coroutine batched ns per search": 2020.77,
+        "coroutine batched ns per access": 72.17
+    },
+    {
+        "Size": 268435456,
+        "Loops": 4000000,
+        "Batchsize": 1,
+        "naive ns per search": 850.16,
+        "naive ns per access": 30.36,
+        "coroutine batched ns per search": 1989.78,
+        "coroutine batched ns per access": 71.06
+    },
+    {
+        "Size": 268435456,
+        "Loops": 4000000,
+        "Batchsize": 2,
+        "naive ns per search": 852.04,
+        "naive ns per access": 30.43,
+        "coroutine batched ns per search": 1191.16,
+        "coroutine batched ns per access": 42.54
+    },
+    {
+        "Size": 268435456,
+        "Loops": 4000000,
+        "Batchsize": 4,
+        "naive ns per search": 841.77,
+        "naive ns per access": 30.06,
+        "coroutine batched ns per search": 834.52,
+        "coroutine batched ns per access": 29.80
+    },
+    {
+        "Size": 268435456,
+        "Loops": 4000000,
+        "Batchsize": 8,
+        "naive ns per search": 893.06,
+        "naive ns per access": 31.90,
+        "coroutine batched ns per search": 788.81,
+        "coroutine batched ns per access": 28.17
+    },
+    {
+        "Size": 268435456,
+        "Loops": 4000000,
+        "Batchsize": 16,
+        "naive ns per search": 852.67,
+        "naive ns per access": 30.45,
+        "coroutine batched ns per search": 825.77,
+        "coroutine batched ns per access": 29.49
+    },
+    {
+        "Size": 268435456,
+        "Loops": 4000000,
+        "Batchsize": 32,
+        "naive ns per search": 852.13,
+        "naive ns per access": 30.43,
+        "coroutine batched ns per search": 1884.57,
+        "coroutine batched ns per access": 67.31
+    },
+    {
+        "Size": 268435456,
+        "Loops": 8000000,
+        "Batchsize": 1,
+        "naive ns per search": 854.65,
+        "naive ns per access": 30.52,
+        "coroutine batched ns per search": 2017.94,
+        "coroutine batched ns per access": 72.07
+    },
+    {
+        "Size": 268435456,
+        "Loops": 8000000,
+        "Batchsize": 2,
+        "naive ns per search": 854.98,
+        "naive ns per access": 30.53,
+        "coroutine batched ns per search": 1190.26,
+        "coroutine batched ns per access": 42.51
+    },
+    {
+        "Size": 268435456,
+        "Loops": 8000000,
+        "Batchsize": 4,
+        "naive ns per search": 870.27,
+        "naive ns per access": 31.08,
+        "coroutine batched ns per search": 836.17,
+        "coroutine batched ns per access": 29.86
+    },
+    {
+        "Size": 268435456,
+        "Loops": 8000000,
+        "Batchsize": 8,
+        "naive ns per search": 854.55,
+        "naive ns per access": 30.52,
+        "coroutine batched ns per search": 812.34,
+        "coroutine batched ns per access": 29.01
+    },
+    {
+        "Size": 268435456,
+        "Loops": 8000000,
+        "Batchsize": 16,
+        "naive ns per search": 928.38,
+        "naive ns per access": 33.16,
+        "coroutine batched ns per search": 867.20,
+        "coroutine batched ns per access": 30.97
+    },
+    {
+        "Size": 268435456,
+        "Loops": 8000000,
+        "Batchsize": 32,
+        "naive ns per search": 860.14,
+        "naive ns per access": 30.72,
+        "coroutine batched ns per search": 1882.34,
+        "coroutine batched ns per access": 67.23
+    },
+    {
+        "Size": 1073741824,
+        "Loops": 1000000,
+        "Batchsize": 1,
+        "naive ns per search": 1157.15,
+        "naive ns per access": 38.57,
+        "coroutine batched ns per search": 2534.85,
+        "coroutine batched ns per access": 84.49
+    },
+    {
+        "Size": 1073741824,
+        "Loops": 1000000,
+        "Batchsize": 2,
+        "naive ns per search": 1172.39,
+        "naive ns per access": 39.08,
+        "coroutine batched ns per search": 1575.24,
+        "coroutine batched ns per access": 52.51
+    },
+    {
+        "Size": 1073741824,
+        "Loops": 1000000,
+        "Batchsize": 4,
+        "naive ns per search": 1118.30,
+        "naive ns per access": 37.28,
+        "coroutine batched ns per search": 1012.08,
+        "coroutine batched ns per access": 33.74
+    },
+    {
+        "Size": 1073741824,
+        "Loops": 1000000,
+        "Batchsize": 8,
+        "naive ns per search": 1173.93,
+        "naive ns per access": 39.13,
+        "coroutine batched ns per search": 1000.98,
+        "coroutine batched ns per access": 33.37
+    },
+    {
+        "Size": 1073741824,
+        "Loops": 1000000,
+        "Batchsize": 16,
+        "naive ns per search": 1156.78,
+        "naive ns per access": 38.56,
+        "coroutine batched ns per search": 926.21,
+        "coroutine batched ns per access": 30.87
+    },
+    {
+        "Size": 1073741824,
+        "Loops": 1000000,
+        "Batchsize": 32,
+        "naive ns per search": 1159.92,
+        "naive ns per access": 38.66,
+        "coroutine batched ns per search": 2095.91,
+        "coroutine batched ns per access": 69.86
+    },
+    {
+        "Size": 1073741824,
+        "Loops": 4000000,
+        "Batchsize": 1,
+        "naive ns per search": 1160.42,
+        "naive ns per access": 38.68,
+        "coroutine batched ns per search": 2566.78,
+        "coroutine batched ns per access": 85.56
+    },
+    {
+        "Size": 1073741824,
+        "Loops": 4000000,
+        "Batchsize": 2,
+        "naive ns per search": 1209.60,
+        "naive ns per access": 40.32,
+        "coroutine batched ns per search": 1481.87,
+        "coroutine batched ns per access": 49.40
+    },
+    {
+        "Size": 1073741824,
+        "Loops": 4000000,
+        "Batchsize": 4,
+        "naive ns per search": 1371.30,
+        "naive ns per access": 45.71,
+        "coroutine batched ns per search": 1025.25,
+        "coroutine batched ns per access": 34.17
+    },
+    {
+        "Size": 1073741824,
+        "Loops": 4000000,
+        "Batchsize": 8,
+        "naive ns per search": 1258.84,
+        "naive ns per access": 41.96,
+        "coroutine batched ns per search": 946.48,
+        "coroutine batched ns per access": 31.55
+    },
+    {
+        "Size": 1073741824,
+        "Loops": 4000000,
+        "Batchsize": 16,
+        "naive ns per search": 1159.57,
+        "naive ns per access": 38.65,
+        "coroutine batched ns per search": 1009.43,
+        "coroutine batched ns per access": 33.65
+    },
+    {
+        "Size": 1073741824,
+        "Loops": 4000000,
+        "Batchsize": 32,
+        "naive ns per search": 1452.44,
+        "naive ns per access": 48.41,
+        "coroutine batched ns per search": 2069.01,
+        "coroutine batched ns per access": 68.97
+    },
+    {
+        "Size": 1073741824,
+        "Loops": 8000000,
+        "Batchsize": 1,
+        "naive ns per search": 1176.92,
+        "naive ns per access": 39.23,
+        "coroutine batched ns per search": 2599.84,
+        "coroutine batched ns per access": 86.66
+    },
+    {
+        "Size": 1073741824,
+        "Loops": 8000000,
+        "Batchsize": 2,
+        "naive ns per search": 1157.92,
+        "naive ns per access": 38.60,
+        "coroutine batched ns per search": 1501.83,
+        "coroutine batched ns per access": 50.06
+    },
+    {
+        "Size": 1073741824,
+        "Loops": 8000000,
+        "Batchsize": 4,
+        "naive ns per search": 1160.23,
+        "naive ns per access": 38.67,
+        "coroutine batched ns per search": 1002.11,
+        "coroutine batched ns per access": 33.40
+    },
+    {
+        "Size": 1073741824,
+        "Loops": 8000000,
+        "Batchsize": 8,
+        "naive ns per search": 1154.57,
+        "naive ns per access": 38.49,
+        "coroutine batched ns per search": 964.64,
+        "coroutine batched ns per access": 32.15
+    },
+    {
+        "Size": 1073741824,
+        "Loops": 8000000,
+        "Batchsize": 16,
+        "naive ns per search": 1155.54,
+        "naive ns per access": 38.52,
+        "coroutine batched ns per search": 925.39,
+        "coroutine batched ns per access": 30.85
+    },
+    {
+        "Size": 1073741824,
+        "Loops": 8000000,
+        "Batchsize": 32,
+        "naive ns per search": 1389.33,
+        "naive ns per access": 46.31,
+        "coroutine batched ns per search": 2068.00,
+        "coroutine batched ns per access": 68.93
+    },
+    {
+        "Size": 4294967296,
+        "Loops": 1000000,
+        "Batchsize": 1,
+        "naive ns per search": 2073.45,
+        "naive ns per access": 64.80,
+        "coroutine batched ns per search": 3669.41,
+        "coroutine batched ns per access": 114.67
+    },
+    {
+        "Size": 4294967296,
+        "Loops": 1000000,
+        "Batchsize": 2,
+        "naive ns per search": 2110.24,
+        "naive ns per access": 65.95,
+        "coroutine batched ns per search": 2062.47,
+        "coroutine batched ns per access": 64.45
+    },
+    {
+        "Size": 4294967296,
+        "Loops": 1000000,
+        "Batchsize": 4,
+        "naive ns per search": 1968.94,
+        "naive ns per access": 61.53,
+        "coroutine batched ns per search": 1288.74,
+        "coroutine batched ns per access": 40.27
+    },
+    {
+        "Size": 4294967296,
+        "Loops": 1000000,
+        "Batchsize": 8,
+        "naive ns per search": 2139.62,
+        "naive ns per access": 66.86,
+        "coroutine batched ns per search": 1296.30,
+        "coroutine batched ns per access": 40.51
+    },
+    {
+        "Size": 4294967296,
+        "Loops": 1000000,
+        "Batchsize": 16,
+        "naive ns per search": 2066.36,
+        "naive ns per access": 64.57,
+        "coroutine batched ns per search": 1244.01,
+        "coroutine batched ns per access": 38.88
+    },
+    {
+        "Size": 4294967296,
+        "Loops": 1000000,
+        "Batchsize": 32,
+        "naive ns per search": 2124.61,
+        "naive ns per access": 66.39,
+        "coroutine batched ns per search": 2627.15,
+        "coroutine batched ns per access": 82.10
+    },
+    {
+        "Size": 4294967296,
+        "Loops": 4000000,
+        "Batchsize": 1,
+        "naive ns per search": 2107.21,
+        "naive ns per access": 65.85,
+        "coroutine batched ns per search": 3622.97,
+        "coroutine batched ns per access": 113.22
+    },
+    {
+        "Size": 4294967296,
+        "Loops": 4000000,
+        "Batchsize": 2,
+        "naive ns per search": 2131.40,
+        "naive ns per access": 66.61,
+        "coroutine batched ns per search": 2085.18,
+        "coroutine batched ns per access": 65.16
+    },
+    {
+        "Size": 4294967296,
+        "Loops": 4000000,
+        "Batchsize": 4,
+        "naive ns per search": 2132.73,
+        "naive ns per access": 66.65,
+        "coroutine batched ns per search": 1322.76,
+        "coroutine batched ns per access": 41.34
+    },
+    {
+        "Size": 4294967296,
+        "Loops": 4000000,
+        "Batchsize": 8,
+        "naive ns per search": 2073.20,
+        "naive ns per access": 64.79,
+        "coroutine batched ns per search": 1286.30,
+        "coroutine batched ns per access": 40.20
+    },
+    {
+        "Size": 4294967296,
+        "Loops": 4000000,
+        "Batchsize": 16,
+        "naive ns per search": 2112.76,
+        "naive ns per access": 66.02,
+        "coroutine batched ns per search": 1371.07,
+        "coroutine batched ns per access": 42.85
+    },
+    {
+        "Size": 4294967296,
+        "Loops": 4000000,
+        "Batchsize": 32,
+        "naive ns per search": 2020.87,
+        "naive ns per access": 63.15,
+        "coroutine batched ns per search": 2500.60,
+        "coroutine batched ns per access": 78.14
+    },
+    {
+        "Size": 4294967296,
+        "Loops": 8000000,
+        "Batchsize": 1,
+        "naive ns per search": 2095.14,
+        "naive ns per access": 65.47,
+        "coroutine batched ns per search": 3704.91,
+        "coroutine batched ns per access": 115.78
+    },
+    {
+        "Size": 4294967296,
+        "Loops": 8000000,
+        "Batchsize": 2,
+        "naive ns per search": 2107.98,
+        "naive ns per access": 65.87,
+        "coroutine batched ns per search": 2011.49,
+        "coroutine batched ns per access": 62.86
+    },
+    {
+        "Size": 4294967296,
+        "Loops": 8000000,
+        "Batchsize": 4,
+        "naive ns per search": 2099.92,
+        "naive ns per access": 65.62,
+        "coroutine batched ns per search": 1317.96,
+        "coroutine batched ns per access": 41.19
+    },
+    {
+        "Size": 4294967296,
+        "Loops": 8000000,
+        "Batchsize": 8,
+        "naive ns per search": 2261.03,
+        "naive ns per access": 70.66,
+        "coroutine batched ns per search": 1268.14,
+        "coroutine batched ns per access": 39.63
+    },
+    {
+        "Size": 4294967296,
+        "Loops": 8000000,
+        "Batchsize": 16,
+        "naive ns per search": 2139.63,
+        "naive ns per access": 66.86,
+        "coroutine batched ns per search": 1276.70,
+        "coroutine batched ns per access": 39.90
+    },
+    {
+        "Size": 4294967296,
+        "Loops": 8000000,
+        "Batchsize": 32,
+        "naive ns per search": 2440.79,
+        "naive ns per access": 76.27,
+        "coroutine batched ns per search": 2617.63,
+        "coroutine batched ns per access": 81.80
+    }
+]
