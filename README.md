@@ -1,6 +1,6 @@
 # Introduction-to-Computer-Systems-Labs
 
-Repository for codes of labs of Introduction to Computer Systems, Fall 2023
+Repository for the codes of labs of Introduction to Computer Systems, Fall 2023
 
 |   实验名称    |     实验内容     |
 | :-----------: | :--------------: |
